@@ -1,14 +1,8 @@
-Employee-Task-Management-Dashboard-ReactJS
-A modern employee dashboard built with ReactJS, showcasing task categorization, dynamic components, and responsive design.
+# React + Vite
 
-🧑‍💻 Employee Task Management Dashboard
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This is a ReactJS-based Employee Dashboard that displays task status summaries and detailed task lists categorized as New, Accepted, Completed, and Failed.
+Currently, two official plugins are available:
 
-## 🚀 Features
-
-- Dynamic task rendering based on task status
-- Modular components for scalability
-- TailwindCSS styling for responsive UI
-- Context API usage for global user state
-- Dark theme layout
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
